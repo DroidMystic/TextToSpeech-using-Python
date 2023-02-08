@@ -11,7 +11,8 @@ Supports multiple languages
 Python 3.x
 gTTS library (pip install gTTS)
 # Installation
-Clone the repository to your local machine.
+Clone the repository to your local machine.  
+pip install -r requirements.txt
 
 # Usage
 To run the text-to-speech program, simply run the following command in the terminal:  
